@@ -1,0 +1,13 @@
+{
+    "graphs":
+    {
+        "main": "./src/main.py:workflow"
+    },
+    "env": ".env",
+    "python_version": "3.12",
+    "dependencies":
+    [
+        ".",
+        "./src/"
+    ]
+}
