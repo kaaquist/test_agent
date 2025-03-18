@@ -32,5 +32,5 @@ drwxrwxr-x 3 kasper kasper 4.0K Mar  7 13:13 tests
 ```
 
 ### The Graph
-This here is the Graph
+This here is the Graph  
 ![the graph](./images/the_graph.png)
