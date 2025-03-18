@@ -30,6 +30,7 @@ drwxrwxr-x 3 kasper kasper 4.0K Mar  7 13:13 tests
 -rw-rw-r-- 1 kasper kasper 208K Mar  7 13:06 uv.lock
 ~/developer/github.com/kaaquist/test-agents master
 ```
-  
+
+### The Graph
 This here is the Graph
 ![the graph](./images/the_graph.png)
